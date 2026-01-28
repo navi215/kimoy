@@ -1,1 +1,3 @@
 # kimoy
+
+first chain mode
